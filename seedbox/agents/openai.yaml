@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedbox 产品共创"
+  short_description: "用需求、方案、传播、商业化和 ROI 五维评审产品想法，给出证据缺口与 MVP 切入点"
+  default_prompt: "使用 $seedbox 评估我的产品想法，先找创新内核，再做五维评分，给出做/不做判断和 MVP 验证路径。"
